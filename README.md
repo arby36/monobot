@@ -13,8 +13,15 @@ Needs
 
 • (For Music SidBot) YTDL Core
 
+• (For No Music SidBot, Feature still buggy) Readline Node.js Module 
+
 1. Download Repo, extract the js file
 
 2. In cmd: ```node <SidBot Js File Path>```
 
+##Bugs and Errors
+
+There are many bugs and errors in the code,
+
+mostly with the cmd commands.
 
