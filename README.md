@@ -3,7 +3,7 @@ A bot for my Discord server, East Chat
 
 Built on Discord.js 
 
-# To download and run:
+## To download and run:
 
 Needs
 
