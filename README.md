@@ -1,7 +1,9 @@
-# sidbot ∞ Discord Bot
-A bot for my Discord server, East Chat 
+# MonoBot ∞ Discord Bot
+A bot for my Discord server, Monotone 
 
 Built on Discord.js 
+
+Note, East Chat has turned into Monotone Server, therefore, we changed the bot's name from SidBot to MonoBot.
 
 ## To download and run:
 
