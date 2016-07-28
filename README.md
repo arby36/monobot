@@ -21,6 +21,13 @@ Needs
 
 2. In cmd: ```node <SidBot Js File Path>```
 
+Note: The one to use is the nomusic_sidbot_2 in the main folder.
+
+## To add the bot to your Discord Server
+**NOTE: THIS WILL NOT RUN 24/7, BUT WE ARE WORKING ON IT!***
+https://discordapp.com/oauth2/authorize?client_id=204989362344034304&scope=bot&permissions=800
+Some features may not be avalible due to server-specific hard-coding.
+
 ##Bugs and Errors
 
 There are many bugs and errors in the code,
