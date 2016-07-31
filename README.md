@@ -5,6 +5,8 @@ Built on Discord.js
 
 Note, East Chat has turned into Monotone Server, therefore, we changed the bot's name from SidBot to MonoBot.
 
+Be sure to look at our Documentation at the Wiki Section!
+
 ## To download and run:
 
 Needs
@@ -32,5 +34,5 @@ Some features may not be avalible due to server-specific hard-coding.
 
 There are many bugs and errors in the code,
 
-mostly with the cmd commands.
+don't be surprised if an error pops up!
 
