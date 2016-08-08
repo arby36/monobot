@@ -1,4 +1,4 @@
-# MonoBot ∞ Discord Bot ∞ v.0.0.3
+# MonoBot ∞ Discord Bot ∞ v.0.0.4
 A bot for my Discord server, Monotone 
 
 Built on Discord.js 
