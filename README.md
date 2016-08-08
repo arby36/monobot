@@ -15,9 +15,23 @@ Needs
 
 • Discord.js
 
-• (For Music SidBot) YTDL Core
+• (For Music MonoBot (Development)) YTDL Core
 
-• (For No Music SidBot, Feature still buggy) Readline Node.js Module 
+• Readline Node.js Module 
+
+* DDG Node.js Module
+
+* WUnderground Node.js Module
+
+* NYT Node.js Module
+
+* Spotify Web API Node.js Module
+
+* Stack Exchange Node.js Module
+
+* Request Node.js Module
+
+* Problably More, you'll find out xD
 
 1. Download Repo, extract the js file
 
