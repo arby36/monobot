@@ -1,4 +1,4 @@
-# MonoBot ∞ Discord Bot ∞ v.0.0.4
+# MonoBot ∞ Discord Bot ∞ v.0.0.5
 A bot for my Discord server, Monotone 
 
 Built on Discord.js 
@@ -6,6 +6,10 @@ Built on Discord.js
 Note, East Chat has turned into Monotone Server, therefore, we changed the bot's name from SidBot to MonoBot.
 
 Be sure to look at our Documentation at the Wiki Section!
+
+Add the bot to your server: https://discordapp.com/oauth2/authorize?client_id=204989362344034304&scope=bot&permissions=800
+
+Needs jsVote and jsAdmin Roles in the server.
 
 ## To download and run:
 
@@ -40,15 +44,16 @@ Needs
 Note: The one to use is the nomusic_sidbot_2 in the main folder.
 
 ## To add the bot to your Discord Server
-**NOTE: THIS WILL NOT RUN 24/7, BUT WE ARE WORKING ON IT!***
+
+We got partial hosting with AWS, so hang tight. There will be outages!
 
 https://discordapp.com/oauth2/authorize?client_id=204989362344034304&scope=bot&permissions=800
 
-Some features may not be avalible due to server-specific hard-coding.
+Most stuff should be non-server specific.
 
 ##Bugs and Errors
 
-There are many bugs and errors in the code,
+*Bashing through new AND old bugs*, there should not be too many errors.
 
-don't be surprised if an error pops up!
+Wikipedia Challenge is dead, so that will be fixed in 0.0.6
 
