@@ -2,8 +2,8 @@
 
 # MonoBot ∞ Discord Bot ∞ v.0.0.5
 
-[![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg?maxAge=2592000?style=plastic)](README.md)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000?style=plastic)](README.md)
+[![Build](https://img.shields.io/wercker/ci/wercker/docs.svg?maxAge=2592000?style=plastic)](README.md)
+[![License](https://img.shields.io/badge/license-GNU-yellow.svg)](README.md)
 
 Built on Discord.js 
 
