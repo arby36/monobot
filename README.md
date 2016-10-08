@@ -2,12 +2,15 @@
 
 # MonoBot ∞ Discord Bot ∞ v.0.0.5
 
-[![Build](https://img.shields.io/wercker/ci/wercker/docs.svg?maxAge=2592000?style=plastic)](README.md)
+[![Build](https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1.svg?maxAge=2592000?style=plastic)](README.md)
 [![License](https://img.shields.io/badge/license-GNU-yellow.svg)](README.md)
 [![Version](https://img.shields.io/badge/version-0.0.5-red.svg)](README.md)
 [![Dev](https://img.shields.io/badge/dev-0.0.6-lightgrey.svg)](README.md)
 
 Built on Discord.js 
+
+#IMPORTANT
+With the new update of Discord.js, everything's messed up. Go ahead. Fork it.
 
 Note, East Chat has turned into Monotone Server, therefore, we changed the bot's name from SidBot to MonoBot.
 
