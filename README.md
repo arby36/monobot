@@ -10,7 +10,7 @@
 Built on Discord.js 
 
 #IMPORTANT
-With the new update of Discord.js, everything's messed up, like *really really messed up*. Go ahead. Fork it. Fix it. We'll pull it.
+We recovered. We're now adding a buch on stuff to "spiff up" the repo, and make it more "downloadable".
 
 Note, East Chat has turned into Monotone Server, therefore, we changed the bot's name from SidBot to MonoBot.
 
