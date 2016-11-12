@@ -1,0 +1,37 @@
+{
+  "name": "monobot",
+  "version": "0.0.6",
+  "description": "A Discord bot for the masses.",
+  "main": "nomusic_sidbot_2.js",
+  "scripts": {
+    "start": "nomusic_sidbot_2.js"
+  },
+  "dependencies": {
+    "discord.js": "8.2.0",
+    "ddg": "latest",
+    "wundergroundnode": "latest",
+    "nyt": "latest",
+    "spotify-web-api-node": "latest",
+    "stackexchange": "latest",
+    "request": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arby36/monobot"
+  },
+  "license": "GPL-3.0",
+  "contributers": [
+    {
+      "name": "Alex Bruce",
+      "email": "arbybruce@gmail.com",
+      "url": "http://alexwith2goo.x10.mx"
+    },
+    {
+      "name": "Nicholas Carlson",
+      "email": "niccarlson@outlook.com",
+      "url": "http://nic.x10.mx"
+    }
+  ]
+
+
+}
