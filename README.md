@@ -1,6 +1,6 @@
 
 
-# MonoBot ∞ Discord Bot ∞ v.0.0.5
+# MonoBot ∞ Discord Bot ∞ v.0.0.6
 
 [![Build](https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1.svg?maxAge=2592000?style=plastic)](README.md)
 [![License](https://img.shields.io/badge/license-GNU-yellow.svg)](README.md)
@@ -54,7 +54,7 @@ Note: The one to use is the nomusic_sidbot_2 in the main folder.
 
 ## To add the bot to your Discord Server
 
-We got partial hosting with AWS, so hang tight. There will be outages!
+We got partial hosting with Heroku, so hang tight. There will be outages!
 
 https://discordapp.com/oauth2/authorize?client_id=204989362344034304&scope=bot&permissions=800
 
@@ -64,5 +64,5 @@ Most stuff should be non-server specific.
 
 *Bashing through new AND old bugs*, there should not be too many errors.
 
-Wikipedia Challenge is dead, so that will be fixed in 0.0.6
+Wikipedia Challenge is *still* dead. It's been put aside.
 
